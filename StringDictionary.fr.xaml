@@ -15,26 +15,26 @@
 	<system:String x:Key="Settings.License">License</system:String>
 	<system:String x:Key="Settings.Proxy">Proxy</system:String>
 
-	<system:String x:Key="Settings.General.RunAtBoot">Run a program automatically when Windows starts</system:String>
+	<system:String x:Key="Settings.General.RunAtBoot">Lancer le programme au démarrage de Windows</system:String>
 	<system:String x:Key="Settings.General.RunAtConnect">Run File Explorer when a drive has connected</system:String>
 
 	<system:String x:Key="Notice">Notice</system:String>
-	<system:String x:Key="AddDrive">Add</system:String>
-	<system:String x:Key="AddDrive.Header">New Drive</system:String>
+	<system:String x:Key="AddDrive">Ajouter</system:String>
+	<system:String x:Key="AddDrive.Header">Nouveau Lecteur</system:String>
 	<system:String x:Key="AddDrive.Storage">Storage</system:String>
 
 	<!--  Drive  -->
 	<system:String x:Key="AddDrive.Drive">Drive</system:String>
 
 	<!--  Add New Storage  -->
-	<system:String x:Key="AddDrive.Network">Network</system:String>
-	<system:String x:Key="AddDrive.ReadOnly">Read-only</system:String>
-	<system:String x:Key="AddDrive.MountAtBoot">Reconnect at signin</system:String>
-	<system:String x:Key="AddDrive.AuthAtConnect">Connect using different credentials</system:String>
+	<system:String x:Key="AddDrive.Network">Réseau</system:String>
+	<system:String x:Key="AddDrive.ReadOnly">Lecture Seule</system:String>
+	<system:String x:Key="AddDrive.MountAtBoot">Se reconnecter à l'ouverture de session</system:String>
+	<system:String x:Key="AddDrive.AuthAtConnect">Se connecter à l'aide d'informations d'indentification différentes</system:String>
 	<system:String x:Key="AddDrive.Account">Account</system:String>
-	<system:String x:Key="AddDrive.Username">Username</system:String>
-	<system:String x:Key="AddDrive.Password">Password</system:String>
-	<system:String x:Key="AddDrive.Anonymous">Anonymous</system:String>
+	<system:String x:Key="AddDrive.Username">Utilisateur</system:String>
+	<system:String x:Key="AddDrive.Password">Mot de passe</system:String>
+	<system:String x:Key="AddDrive.Anonymous">Anonyme</system:String>
 	<system:String x:Key="AddDrive.Address">Address</system:String>
 	<system:String x:Key="AddDrive.Port">Port</system:String>
 	<system:String x:Key="AddDrive.Device">Device</system:String>
@@ -59,29 +59,29 @@
 	<system:String x:Key="Vailidation.Hint.Volume">volume label</system:String>
 	<system:String x:Key="Vailidation.Hint.Address">host.example.com</system:String>
 	<system:String x:Key="Vailidation.Hint.Address.LocalDrive">folder</system:String>
-	<system:String x:Key="Vailidation.Hint.Username">username</system:String>
-	<system:String x:Key="Vailidation.Hint.Password">password</system:String>
+	<system:String x:Key="Vailidation.Hint.Username">utilisateur</system:String>
+	<system:String x:Key="Vailidation.Hint.Password">mot de passe</system:String>
 	<system:String x:Key="Vailidation.Hint.Port">port</system:String>
-	<system:String x:Key="Vailidation.Hint.Path">path</system:String>
-	<system:String x:Key="Vailidation.Hint.Email">id@example.com</system:String>
+	<system:String x:Key="Vailidation.Hint.Path">dossier</system:String>
+	<system:String x:Key="Vailidation.Hint.Email">id@exemple.com</system:String>
 	<system:String x:Key="Vailidation.Hint.PrivateKeyPath">you may select private key file</system:String>
 
-	<system:String x:Key="Button.Yes">Yes</system:String>
-	<system:String x:Key="Button.No">No</system:String>
-	<system:String x:Key="Button.OK">OK</system:String>
-	<system:String x:Key="Button.Apply">Apply</system:String>
-	<system:String x:Key="Button.Cancel">Cancel</system:String>
-	<system:String x:Key="Button.Check">Check</system:String>
-	<system:String x:Key="Button.Edit">Edit</system:String>
+	<system:String x:Key="Button.Yes">Oui</system:String>
+	<system:String x:Key="Button.No">Non</system:String>
+	<system:String x:Key="Button.OK">Valider</system:String>
+	<system:String x:Key="Button.Apply">Appliquer</system:String>
+	<system:String x:Key="Button.Cancel">Annuler</system:String>
+	<system:String x:Key="Button.Check">Vérifier</system:String>
+	<system:String x:Key="Button.Edit">Modifier</system:String>
 	<system:String x:Key="Button.Retry">Retry</system:String>
 	<system:String x:Key="Button.ReAuth">Sing in</system:String>
 	<system:String x:Key="Button.Login">Login</system:String>
 	<system:String x:Key="Button.SIGNIN">SIGIN-IN</system:String>
 
-	<system:String x:Key="ToolTip.Connect">Connect</system:String>
-	<system:String x:Key="ToolTip.Disconnect">Disconnect</system:String>
+	<system:String x:Key="ToolTip.Connect">Connecter</system:String>
+	<system:String x:Key="ToolTip.Disconnect">Disconnecter</system:String>
 	<system:String x:Key="ToolTip.Edit">Edit</system:String>
-	<system:String x:Key="ToolTip.Remove">Remove</system:String>
+	<system:String x:Key="ToolTip.Remove">Supprimer</system:String>
 	<system:String x:Key="ToolTip.NetworkDrive">Network Drive</system:String>
 	<system:String x:Key="ToolTip.SecureProtocol">Secure Protocol</system:String>
 	<system:String x:Key="ToolTip.SecureConnection">Secure Connection</system:String>
