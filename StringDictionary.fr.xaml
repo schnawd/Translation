@@ -7,29 +7,29 @@
 	<system:String x:Key="Settings.Header">Paramètres</system:String>
 	<system:String x:Key="Settings.General">General</system:String>
 	<system:String x:Key="Settings.Language">Langue</system:String>
-	<system:String x:Key="Settings.Update">Update</system:String>
+	<system:String x:Key="Settings.Update">Mise à jour</system:String>
 	<system:String x:Key="Settings.Facebook">Facebook</system:String>
-	<system:String x:Key="Settings.Facebook.Like">Like</system:String>
-	<system:String x:Key="Settings.TemporaryPath">Temporary</system:String>
-	<system:String x:Key="Settings.Default">Default</system:String>
+	<system:String x:Key="Settings.Facebook.Like">J'aime</system:String>
+	<system:String x:Key="Settings.TemporaryPath">Dossier temporaire</system:String>
+	<system:String x:Key="Settings.Default">Réinitialiser</system:String>
 	<system:String x:Key="Settings.License">License</system:String>
 	<system:String x:Key="Settings.Proxy">Proxy</system:String>
 
-	<system:String x:Key="Settings.General.RunAtBoot">Run a program automatically when Windows starts</system:String>
-	<system:String x:Key="Settings.General.RunAtConnect">Run File Explorer when a drive has connected</system:String>
+	<system:String x:Key="Settings.General.RunAtBoot">Lancer le programme au démarrage de Windows</system:String>
+	<system:String x:Key="Settings.General.RunAtConnect">Lancer l'explorateur quand un lecteur est connecté</system:String>
 
 	<system:String x:Key="Notice">Notice</system:String>
-	<system:String x:Key="AddDrive">Add</system:String>
-	<system:String x:Key="AddDrive.Header">New Drive</system:String>
-	<system:String x:Key="AddDrive.Storage">Storage</system:String>
+	<system:String x:Key="AddDrive">Ajouter</system:String>
+	<system:String x:Key="AddDrive.Header">Nouveau lecteur</system:String>
+	<system:String x:Key="AddDrive.Storage">Espace de stokage</system:String>
 
 	<!--  Drive  -->
-	<system:String x:Key="AddDrive.Drive">Drive</system:String>
+	<system:String x:Key="AddDrive.Drive">Lecteur</system:String>
 
 	<!--  Add New Storage  -->
 	<system:String x:Key="AddDrive.Network">Network</system:String>
-	<system:String x:Key="AddDrive.ReadOnly">Read-only</system:String>
-	<system:String x:Key="AddDrive.MountAtBoot">Reconnect at signin</system:String>
+	<system:String x:Key="AddDrive.ReadOnly">Lecture seule</system:String>
+	<system:String x:Key="AddDrive.MountAtBoot">Reconnecter au démarrage</system:String>
 	<system:String x:Key="AddDrive.AuthAtConnect">Connect using different credentials</system:String>
 	<system:String x:Key="AddDrive.Account">Account</system:String>
 	<system:String x:Key="AddDrive.Username">Username</system:String>
